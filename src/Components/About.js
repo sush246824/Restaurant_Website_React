@@ -14,7 +14,7 @@ const About = () => {
       <div className="about-section-text-container">
         <p className="primary-subheading">About</p>
         <h1 className="primary-heading">
-          Food Is An Important Part Of A Balanced Diet
+          Food Is An Important Part Of Life
         </h1>
         <p className="primary-text">
         At FOODIE, we believe that food plays a crucial role in a healthy lifestyle. 
